@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "565485f1-23b5-1c62-986f-627da41c64c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Distributed Computer Systems Engineering",
+  "course_description": "This course covers abstractions and implementation techniques for the design of distributed systems. Topics include: server design, network programming, naming, storage systems, security, and fault tolerance. The assigned readings for the course are from current literature. This course is worth 6 Engineering Design Points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.824",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
